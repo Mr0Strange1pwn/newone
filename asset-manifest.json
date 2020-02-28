@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newone/static/css/main.d1b05096.chunk.css",
+    "main.js": "/newone/static/js/main.17cca12e.chunk.js",
+    "main.js.map": "/newone/static/js/main.17cca12e.chunk.js.map",
+    "runtime-main.js": "/newone/static/js/runtime-main.39063a2e.js",
+    "runtime-main.js.map": "/newone/static/js/runtime-main.39063a2e.js.map",
+    "static/js/2.d90dc2d7.chunk.js": "/newone/static/js/2.d90dc2d7.chunk.js",
+    "static/js/2.d90dc2d7.chunk.js.map": "/newone/static/js/2.d90dc2d7.chunk.js.map",
+    "index.html": "/newone/index.html",
+    "precache-manifest.454b45320d58644f91b71ddb3a96cd14.js": "/newone/precache-manifest.454b45320d58644f91b71ddb3a96cd14.js",
+    "service-worker.js": "/newone/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/newone/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d90dc2d7.chunk.js.LICENSE.txt": "/newone/static/js/2.d90dc2d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39063a2e.js",
+    "static/js/2.d90dc2d7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.17cca12e.chunk.js"
+  ]
+}
